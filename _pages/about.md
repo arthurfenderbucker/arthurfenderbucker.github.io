@@ -14,7 +14,7 @@ I am a pasionate roboticst and AI researcher.
 I am a bachelors student of Mechatronics Eng. at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
 
 My previous projects and researches follow mainly the field of Autonous systems, AI and Robotics. 
-**I invite you to check my [Portfolio]({{url}}/portfilio) and [Publications]({{url}}/publications)**.
+**I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
 Recently, I had the oportunity to colaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research intership at the [AirLab](https://theairlab.org/). The outcome of these 6 months of research were 2 paper published at IEEE - ICRA 2021, [one as 1st author]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [one as 2nd]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography).
 
