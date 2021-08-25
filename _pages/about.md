@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 
-I am a pasionate roboticst and AI researcher. 
+I am a passionate roboticist and AI researcher. 
 
-I am a bachelors student of Mechatronics Eng. at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
+I am a bachelors student of mechatronics engineering. at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
 
-My previous projects and researches follow mainly the field of Autonous systems, AI and Robotics. 
+My previous projects and research follow mainly the field of autonomous systems, AI and Robotics. 
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
-Recently, I had the oportunity to colaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research intership at the [AirLab](https://theairlab.org/). The outcome of these 6 months of research were 2 paper published at IEEE - ICRA 2021, [one as 1st author]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [one as 2nd]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography).
+Recently, I had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research were two paper published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
 
-Currently, I am focusing my on the field of Natural-language-facilitated Human-robot Cooperation, while conducting a Research at the [Munich School of Robotics and Machine Inteligence (MSRM)](https://www.msrm.tum.de/msrm/msrm/) in partnership with the [Microsoft Reseach (US)]({{url}}).
+In present-day, I'm focusing my on the field of Natural-language-facilitated Human-robot Cooperation, while conducting a research at the [Munich School of Robotics and Machine Inteligence (MSRM)](https://www.msrm.tum.de/msrm/msrm/) in partnership with the [Microsoft Reseach (US)]({{url}}).
 
-In 2020, I became a fellow at the  Fundacão Estudar's Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 recipients out of 40,000+ applicants).
+In 2020, I became a fellow at the  Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 recipients out of 40,000+ applicants).
 
 
 ## Recent publication:
@@ -39,7 +39,7 @@ In 2020, I became a fellow at the  Fundacão Estudar's Leaders Program, a Merit 
 **Skyrats** – Member
 <br/>Feb 2018 – Apr 2020
 
-**Grupo Turing** – Head Of Project Management
+**Grupo Turing** – Head of Project Management
 <br/>Feb 2018 – Aug 2018
 <br/>Grupo Turing is the AI Research group at Escola Politécnica da USP. As its objective is to study, apply and disseminate AI knowledge.
 
