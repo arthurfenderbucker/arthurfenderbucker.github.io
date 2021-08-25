@@ -16,7 +16,7 @@ I am a bachelors student of mechatronics engineering. at the [University of São
 My previous projects and research follow mainly the field of autonomous systems, AI and Robotics. 
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
-Recently, I had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research were two paper published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
+I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research were two paper published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
 
 In present-day, I'm focusing my on the field of Natural-language-facilitated Human-robot Cooperation, while conducting a research at the [Munich School of Robotics and Machine Intelligence (MSRM)](https://www.msrm.tum.de/msrm/msrm/) in partnership with the [Microsoft Research (US)]({{url}}).
 
@@ -51,7 +51,7 @@ In 2020, I became a fellow at the  Fundação Estudar Leaders Program, a Merit s
 
 **Technical University of Munich**
 <br/>Master of Science - Mechatronics and Robotics
-<br/>Double Degree program
+<br/>Double degree program
 <br/>2020 – 2022
  
 **Escola Politécnica da USP**
