@@ -33,4 +33,4 @@ Leadership:
 - In 2015 and 2016 we received the award for best private school team in the state of São Paulo.
 - The team represented the state of São Paulo in Uberlândia (2015) and Recife (2016) 
 
-### I invite you to check the [full report](/files/portfolio_ORB.pdf)
+### I invite you to check the [full report](/files/portfolio_OBR.pdf)

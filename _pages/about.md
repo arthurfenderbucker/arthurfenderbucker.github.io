@@ -18,13 +18,13 @@ My previous projects and research follow mainly the field of autonomous systems,
 
 I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research were two paper published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
 
-In present-day, I'm focusing my on the field of Natural-language-facilitated Human-robot Cooperation, while conducting a research at the [Munich School of Robotics and Machine Intelligence (MSRM)](https://www.msrm.tum.de/msrm/msrm/).
-<!-- in partnership with the [Microsoft Research (US)]({{url}}). -->
+In present-day, I'm focusing on the field of Natural-language-facilitated Human-robot Cooperation, while conducting a research at the [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/).
+in partnership with the [Microsoft Research]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}).
 
 In 2020, I became a fellow at the  Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 recipients out of 40,000+ applicants).
 
 
-## Recent publication:
+## Recent publications:
 
 {% for post in site.publications reversed %}
   {% include archive-double.html %}
@@ -32,6 +32,10 @@ In 2020, I became a fellow at the  Fundação Estudar Leaders Program, a Merit s
 
 
 ## Experience:
+
+**MIRMI & Microsoft collaboration** – Researcher
+<br/>Nov 2021 – Present
+<br/>Research on HRI using multimodal inputs for motion policy shaping
 
 **Carnegie Mellon University Internship** – Research Intern
 <br/>May 2020 – Nov 2020
@@ -67,6 +71,7 @@ In 2020, I became a fellow at the  Fundação Estudar Leaders Program, a Merit s
 
 ## Awards:
 
+- Microsoft AI for Earth Grantee ($5000)
 - Fellow at Fundação Estudar Leaders program (approval rate = 0.05%)
 - Summer Exchange in China on the Seeds for the Future program (Huawei)
 - 1st place at CLAPP (Latin American Design & Prototype Competition)

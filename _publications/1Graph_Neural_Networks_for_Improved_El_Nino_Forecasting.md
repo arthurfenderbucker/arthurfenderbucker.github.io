@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Graph_Neural_Networks_for_Improved_El_Nino_Forecasting
 excerpt: ''
 # date: 2020-11-10
-venue: 'IEEE  International Conference on Robotics and Automation (ICRA 2021)'
+venue: 'Proposal paper at NeurIPS 2020 workshop on Tackling Climate Change with Machine Learning & EGU2021'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: 'Salva Rühling Cachay, Emma Erickson, <b>Arthur Fender C Bucker</b>, Ernest Pokropek, Willa Potosnak, Salomey Osei, Björn Lütjens'
 img: "/images/publications/graph.png"
