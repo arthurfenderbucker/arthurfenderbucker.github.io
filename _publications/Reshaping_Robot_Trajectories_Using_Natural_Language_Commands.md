@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/NL_trajectory_reshaper
 excerpt: ''
 # date: 2020-11-10
-venue: 'NeurIPS 2020 workshop on Tackling Climate Change with Machine Learning & EGU2021 (Proposal paper)'
+venue: 'Submitted to IROS 2022 (pending)'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: '<b>Arthur Bucker</b>, Luis Figueredo, Sami Haddadin, Ashish Kapoor , Shuang Ma , Rogerio Bonatti'
 img: "/images/publications/reshaping.png"

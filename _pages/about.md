@@ -70,7 +70,8 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 
 ## Awards:
 
-- Microsoft AI for Earth Grantee ($5000)
+- AUCANI merit scholarship recipient.
+- Microsoft AI for Earth Grantee
 - Fellow at Fundação Estudar Leaders program (approval rate = 0.05%)
 - Summer Exchange in China on the Seeds for the Future program (Huawei)
 - 1st place at CLAPP (Latin American Design & Prototype Competition)
@@ -85,7 +86,4 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 - English - Fluent
 - German - Intermediate
 - French - Basic
-
-<!-- ## Selected news: -->
-
-<!-- https://www.cs.cmu.edu/news/2021/shoot-better-drone-videos-single-word -->
+<!-- - Chinese - Basic -->
