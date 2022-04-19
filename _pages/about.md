@@ -11,7 +11,7 @@ redirect_from:
 
 I am a passionate roboticist and AI researcher. 
 
-I am a bachelors student of mechatronics engineering. at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
+I am a bachelors student of mechatronics engineering at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
 
 My previous projects and research follow mainly the field of autonomous systems, AI and Robotics. 
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
