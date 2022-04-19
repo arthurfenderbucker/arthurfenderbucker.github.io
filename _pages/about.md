@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a passionate roboticist and AI researcher. 
 
 I am a bachelors student of mechatronics engineering at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
@@ -16,12 +15,12 @@ I am a bachelors student of mechatronics engineering at the [University of São 
 My previous projects and research follow mainly the field of autonomous systems, AI and Robotics. 
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
-I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research were two paper published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
+I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research was two papers published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
 
-In present-day, I'm focusing on the field of Natural-language-facilitated Human-Robot-Interaction, while conducting a research at the [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/).
-in partnership with the [Microsoft Research]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}).
+In the present day, I'm focusing on the field of Natural-language-facilitated Human-Robot-Interaction, while conducting research at the [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/).
+in partnership with [Microsoft Business AI - Science & Research]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}).
 
-In 2020, I became a fellow at the  Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 recipients out of 40,000+ applicants).
+In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship.
 
 
 ## Recent publications:
