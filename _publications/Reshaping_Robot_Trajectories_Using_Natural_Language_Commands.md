@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/NL_trajectory_reshaper
 excerpt: ''
 # date: 2020-11-10
-venue: 'Submitted to IROS 2022 (pending)'
+venue: 'IEEE 2022 ICRA workshop on Shared Autonomy in Physical Human-Robot Interaction | IEEE 2022 ICRA workshop on Collaborative Robots and the Work of the Future | Northwest Robotics Symposium 2022 | Submitted to IROS 2022 (pending)'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
-authors: '<b>Arthur Bucker</b>, Luis Figueredo, Sami Haddadin, Ashish Kapoor , Shuang Ma , Rogerio Bonatti'
+authors: '<b>Arthur Bucker</b>, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Rogerio Bonatti'
 img: "/images/publications/reshaping.png"
 width: '17%'
 pdf: 'https://arxiv.org/pdf/2203.13411.pdf'
@@ -21,7 +21,10 @@ Natural language is the most intuitive medium for us to interact with other peop
 [pdf](https://arxiv.org/pdf/2203.13411.pdf)
 [Project webpage](https://arthurfenderbucker.github.io/NL_trajectory_reshaper/)
 
-
+### Workshops and Symposiums:
+- [IEEE 2022 ICRA - Shared Autonomy in Physical Human-Robot Interaction: Adaptability and Trust](https://sites.google.com/view/saphri-icra2022/contributions?authuser=0)
+- [IEEE 2022 ICRA - Collaborative Robots and the Work of the Future](https://sites.google.com/view/icra22ws-cor-wotf/accepted-papers) :star: spotlight contribution
+- [Northwest Robotics Symposium](https://nwrsymposium.github.io/)
 
 ### IROS 2022 video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCopdDd9CVw" title="Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

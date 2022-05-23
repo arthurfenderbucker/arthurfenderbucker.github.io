@@ -70,6 +70,7 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 
 ## Awards:
 
+- Spotlight contribution - IEEE 2022 ICRA workshop on Collaborative Robots and the Work of the Future 
 - AUCANI merit scholarship recipient.
 - Microsoft AI for Earth Grantee
 - Fellow at Fundação Estudar Leaders program (approval rate = 0.05%)
@@ -78,7 +79,7 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 - Winning Team at Hackathon Ambev (Hack the World 2017 SP)
 - Best project award and Team leader at PACE POLI USP 2017 Competition (1st out of 200 teams)
 - A representative of the State of São Paulo at the national stages of the Brazilian Robotics Olympics (team leader 2015 & 2016)
-- Silver medal in the national stage of the Theoretical Robotics Olympics (2016)
+- Silver medal at the national stage of the Theoretical Robotics Olympics (2016)
 - Team gold medal at the “International Olympiad Mathématiques sans frontières” (2016).
 
 ### LANGUAGES
