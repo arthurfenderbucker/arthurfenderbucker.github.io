@@ -20,3 +20,5 @@ pdf: 'https://arxiv.org/pdf/2012.01598'
 Deep learning-based models have recently outperformed state-of-the-art seasonal forecasting models, such as for predicting El Ni\~no-Southern Oscillation (ENSO). However, current deep learning models are based on convolutional neural networks which are difficult to interpret and can fail to model large-scale atmospheric patterns called teleconnections. Hence, we propose the application of spatiotemporal Graph Neural Networks (GNN) to forecast ENSO at long lead times, finer granularity and improved predictive skill than current state-of-the-art methods. The explicit modeling of information flow via edges may also allow for more interpretable forecasts. Preliminary results are promising and outperform state-of-the art systems for projections 1 and 3 months ahead.
 
 [pdf](https://arxiv.org/pdf/2012.01598)
+
+[EGU2021 version](https://ui.adsabs.harvard.edu/abs/2021EGUGA..23.9141R/abstract)

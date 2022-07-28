@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/NL_trajectory_reshaper
 excerpt: ''
 # date: 2020-11-10
-venue: 'IEEE 2022 ICRA workshop on Shared Autonomy in Physical Human-Robot Interaction | IEEE 2022 ICRA workshop on Collaborative Robots and the Work of the Future | Northwest Robotics Symposium 2022 | Submitted to IROS 2022 (pending)'
+venue: 'IROS 2022 conference | IEEE 2022 ICRA workshop on Shared Autonomy in Physical Human-Robot Interaction | IEEE 2022 ICRA workshop on Collaborative Robots and the Work of the Future | Northwest Robotics Symposium 2022'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: '<b>Arthur Bucker</b>, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Rogerio Bonatti'
 img: "/images/publications/reshaping.png"
