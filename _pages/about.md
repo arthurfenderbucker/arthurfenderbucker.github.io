@@ -33,7 +33,7 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 ## Experience:
 
 **MIRMI & Microsoft collaboration** – Researcher
-<br/>Nov 2021 – Present
+<br/>Nov 2021 – Nov 2022
 <br/>Research on HRI using multimodal inputs for motion policy shaping
 
 **Carnegie Mellon University Internship** – Research Intern
