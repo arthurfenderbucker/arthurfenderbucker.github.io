@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/LATTE_LAnguage_Trajectory_TransformEr
 excerpt: ''
 # date: 2020-11-10
-venue: 'NeurIPS 2022 workshop - Foundation Models for Decision Making Workshop'
+venue: 'NeurIPS 2022 workshop - Foundation Models for Decision Making'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: '<b>Arthur Bucker</b>, Luis Figueredo, Sami Haddadin, Ashish Kapoor, Shuang Ma, Sai Vemprala, Rogerio Bonatti'
 img: "/images/publications/latte.png"
