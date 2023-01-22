@@ -15,10 +15,11 @@ I am a bachelors student of mechatronics engineering at the [University of São 
 My previous projects and research follow mainly the field of autonomous systems, AI and Robotics. 
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
-I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research was two papers published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) at IEEE - ICRA 2021.
+I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research was two papers published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) author at IEEE - ICRA 2021.
 
-In the present day, I'm focusing on the field of Natural-language-facilitated Human-Robot-Interaction, while conducting research at the [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/).
-in partnership with [Microsoft Business AI - Science & Research]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}).
+During my master studies, I have led a research partnership between [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/) and [Microsoft Resarch]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}). Focusing on the field of Natural-language-facilitated Human-Robot-Interaction, we published 2 papers at [IROS 2022]({{url}}/publication/NL_trajectory_reshaper) and [ICRA 2023]({{url}}/publication/LATTE_LAnguage_Trajectory_TransformEr). Both as first author.
+
+In the present day, I am conducting a full-time internship at [Microsoft Resarch]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}) at the Autonomous Systems and Robotics Research Group.
 
 In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship.
 
