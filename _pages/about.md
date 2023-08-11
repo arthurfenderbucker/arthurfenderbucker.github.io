@@ -10,19 +10,17 @@ redirect_from:
 
 I am a passionate roboticist and AI researcher. 
 
-I am a bachelors student of mechatronics engineering at the [University of São Paulo (USP)](https://www5.usp.br/) and, as part of a double degree program, I am pursuing a master’s degree at the [Technical University of Munich (TUM)](https://www.tum.de/en/) in mechatronics and robotics.
+Currently pursuing a PhD in Robotics at [Carnegie Mellon University](https://www.cmu.edu/). My research focuses on the field of Robotic Learning facilitated by multimodal Human-Robot-Interaction.
 
-My previous projects and research follow mainly the field of autonomous systems, AI and Robotics. 
+My previous projects and research encompasses the fields of autonomous systems, AI, Robotics and electronics.
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
-I recently had the opportunity to collaborate with the [Carnegie Mellon University (CMU)](https://www.cs.cmu.edu/) in a research internship at the [AirLab](https://theairlab.org/). The outcome of these six months of research was two papers published, as [first]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [second]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) author at IEEE - ICRA 2021.
+During my bachelor's in mechatronics engineering at [University of São Paulo (USP)](https://www5.usp.br/) 
+I have led the Projects Division of the university's Artificial intelligence group (Grupo Turing), led the technical development of an autonomous drone for international competition, researched on distributed sensing systems and conducted several extracurricular projects on the fields of robotics and AI. Still as undergrad, I published 2 papers at ICRA 2021 on autonomous aerial cinematography (as [1st]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [2nd]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) author) 
 
-During my master studies, I have led a research partnership between [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/) and [Microsoft Resarch]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}). Focusing on the field of Natural-language-facilitated Human-Robot-Interaction, we published 2 papers at [IROS 2022]({{url}}/publication/NL_trajectory_reshaper) and [ICRA 2023]({{url}}/publication/LATTE_LAnguage_Trajectory_TransformEr). Both as first author.
+During my master studies at [TUM](https://www.tum.de/en/), I have led a research partnership between [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/) and [Microsoft Resarch]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}). The project focused on the field of Natural-language-facilitated Human-Robot-Interaction, and achieved 2 publications at [IROS 2022]({{url}}/publication/NL_trajectory_reshaper) and [ICRA 2023]({{url}}/publication/LATTE_LAnguage_Trajectory_TransformEr). Both as first author.
 
-In the present day, I am conducting a full-time internship at [Microsoft Resarch]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}) at the Autonomous Systems and Robotics Research Group.
-
-In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship.
-
+Since 2020, I am a fellow at the Fundação Estudar Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship.
 
 ## Recent publications:
 
@@ -32,6 +30,13 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 
 
 ## Experience:
+
+**Carnegie Mellon University** – PhD Candidate
+<br/>Aug 2023 – Present
+
+**Koya AI Startup** – Machine Learning Researcher
+<br/>Jul 2023 – Aug 2023
+<br/>Led the research on foundational models knowledge distillation
 
 **MIRMI & Microsoft collaboration** – Researcher
 <br/>Nov 2021 – Nov 2022
@@ -54,6 +59,10 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
 
 ## Education:
 
+**Carnegie Mellon University**
+<br/>PhD - Robotics
+<br/>Aug 2023 – present
+
 **Technical University of Munich**
 <br/>Master of Science - Mechatronics and Robotics
 <br/>Double degree program
@@ -61,7 +70,7 @@ In 2020, I became a fellow at the Fundação Estudar Leaders Program, a Merit sc
  
 **Escola Politécnica da USP**
 <br/>Bachelor's degree Mechatronics Eng.
-<br/>2017 – 2022
+<br/>2017 – 2023
 
  
 **Colégio Santa Cruz**
