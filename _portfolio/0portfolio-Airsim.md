@@ -9,7 +9,7 @@ contribution: "
 results: "</br>- The drone was able to navigate autonomously in a 3D environment, avoiding obstacles and following a pre-defined paths.
 </br>- The system was deployed and featured in a official Microsoft Demo"
 period: "2023-02 to 2023-03"
-img: "/images/portfolio/airsim/airsim_demo.jpeg"
+img: "/images/portfolio/airsim/airsim_demo.gif"
 alt: "Microsoft Airsim Demo"
 permalink: /porfolio/Microsoft_Airsim_Demo
 collection: portfolio
