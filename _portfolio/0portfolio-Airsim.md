@@ -8,15 +8,15 @@ contribution: "
 </br>- Implemented an user interface to control the drone and visualize the navigation system."
 results: "</br>- The drone was able to navigate autonomously in a 3D environment, avoiding obstacles and following a pre-defined paths.
 </br>- The system was deployed and featured in a official Microsoft Demo"
-period: "2023-02 to 2023-03"
+period: "FEB - APR 2023"
 img: "/images/portfolio/airsim/airsim_demo.gif"
 alt: "Microsoft Airsim Demo"
 permalink: /porfolio/Microsoft_Airsim_Demo
 collection: portfolio
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2eU0rLp464s" title="Real life demo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/2eU0rLp464s" title="Real life demo video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Sytem video](https://www.youtube.com/watch?v=2eU0rLp464s)
+[Video](https://www.youtube.com/watch?v=2eU0rLp464s)
 
 [Code](https://github.com/arthurfenderbucker/indoor_drone)
