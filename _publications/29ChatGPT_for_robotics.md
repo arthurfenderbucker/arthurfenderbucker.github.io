@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ChatGPT_for_robotics
 excerpt: ''
 # date: 2023
-venue: 'Microsoft research - Technical Report'
+venue: 'Microsoft research - Technical Report - feb 2023'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: 'Sai Vemprala, Rogerio Bonatti, <b>Arthur Bucker</b> and Ashish Kapoor'
 img: "/images/publications/chatgpt_robotics.jpg"
