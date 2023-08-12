@@ -14,7 +14,7 @@ video: 'https://youtu.be/NYd0QcZcS6Q'
 
 
 ---
-<iframe width="560" height="315" src="https://youtu.be/NYd0QcZcS6Q" title="ChatGPT for robotics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYd0QcZcS6Q" title="ChatGPT for robotics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Sai Vemprala, Rogerio Bonatti, <b>Arthur Bucker</b> and Ashish Kapoor*
 
