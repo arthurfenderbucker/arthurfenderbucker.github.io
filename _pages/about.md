@@ -67,6 +67,7 @@ Since 2020, I am a fellow at the Fundação Estudar Leaders Program, a Merit sch
 <br/>Master of Science - Mechatronics and Robotics
 <br/>Double degree program
 <br/>2020 – 2022
+[Thesis pdf]({{url}}/files/Master_Thesis_TUM-Arthur_Fender_Coelho_Bucker.pdf)
  
 **Escola Politécnica da USP**
 <br/>Bachelor's degree Mechatronics Eng.
@@ -96,5 +97,6 @@ Since 2020, I am a fellow at the Fundação Estudar Leaders Program, a Merit sch
 - Portuguese - Native
 - English - Fluent
 - German - Intermediate
+- Spanish - Intermediate
 - French - Basic
-<!-- - Chinese - Basic -->
+- Chinese - Basic
