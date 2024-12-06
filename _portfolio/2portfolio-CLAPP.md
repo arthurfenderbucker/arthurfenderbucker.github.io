@@ -15,7 +15,7 @@ permalink: /porfolio/Projects_and_Prototypes_Latin_American_Competition_(CLAPP)
 collection: portfolio
 ---
 
-<img src="/images/portfolio/CLAPP.jpg"/>
+<img src="/images/portfolio/clapp.jpg"/>
 
 Project time frame: 1 weeks (December  2019)
 
@@ -27,4 +27,4 @@ Team of 3 interdisciplinary students from Brazil, Argentina and Peru
 - First Place at the competition
 
 
-<img src="/images/portfolio/hand/hand_real.jpg"/>
+<img src="/images/portfolio/clapp.jpg"/>

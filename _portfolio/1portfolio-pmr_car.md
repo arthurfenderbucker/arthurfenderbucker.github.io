@@ -20,7 +20,7 @@ permalink: /porfolio/Sprinter_Line_Follower
 collection: portfolio
 ---
 
-<img src="/images/portfolio/hand/hand.png"/>
+<img src="/images/portfolio/Sprinter_Line_Follower.jpg"/>
 
 Project time frame: 6 weeks (May 2017 - June 2017)
 
@@ -37,4 +37,4 @@ Design and build an Arduino based line-following cart capable of, when an obstac
 - Met all requirements
 - The project held the 1st place in the competition (out of 11 teams)
 
-<img src="/images/portfolio/hand/hand_real.jpg"/>
+<img src="/images/portfolio/Sprinter_Line_Follower.jpg"/>

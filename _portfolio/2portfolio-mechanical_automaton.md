@@ -13,13 +13,13 @@ results: "
 </br>- We won the best project award in 2017 (out of 200 teams)
 "
 period: "MAR - JUL 2017"
-img: "/images/portfolio/PACE/pace_small.PNG"
+img: "/images/portfolio/PACE/pace_small.png"
 alt: ""
 permalink: /porfolio/PACE
 collection: portfolio
 ---
 
-<img src="/images/portfolio/PACE/pace_large.jpg"/>
+<img src="/images/portfolio/PACE/pace_large.png"/>
 <video width="100%" controls>
   <source src="/files/video_pace.mp4" type="video/mp4">
 Your browser does not support the video tag.
