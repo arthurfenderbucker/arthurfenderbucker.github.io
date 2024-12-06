@@ -10,7 +10,7 @@ redirect_from:
 
 I am a passionate roboticist and AI researcher. 
 
-Currently pursuing a PhD in Robotics at [Carnegie Mellon University](https://www.cmu.edu/). My research focuses on the field of Robotic Learning facilitated by multimodal Human-Robot-Interaction.
+Currently pursuing a PhD in Robotics at [Carnegie Mellon University](https://www.cmu.edu/). My research focuses on the fields of Self-Supervision and Policy Adaptation.
 
 My previous projects and research encompasses the fields of autonomous systems, AI, Robotics and electronics.
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
@@ -33,6 +33,15 @@ Since 2020, I am a fellow at the Fundação Estudar Leaders Program, a Merit sch
 
 **Carnegie Mellon University** – PhD Candidate
 <br/>Aug 2023 – Present
+<br/>roBot Intelligence Group (BIG)
+
+**Microsoft - Applied Sciences Group (ASG)** — Research Intern
+<br/>May 2023 – Aug 2023
+<br/> Research on Autonomous Virtual Agents for windows, contributed to the Windows Agent Arena project, and developed a temporal aware RAG system for Agents
+
+**Microsoft - Autonomous Systems and Robotics Research** — Research Intern
+<br/>May 2023 – Aug 2023
+<br/> Research on foundational models for Robotics & Developed an [autonomy stack for indoor monocular drones](https://www.youtube.com/watch?v=2eU0rLp464s)
 
 **Koya AI Startup** – Machine Learning Researcher
 <br/>Jul 2023 – Aug 2023
