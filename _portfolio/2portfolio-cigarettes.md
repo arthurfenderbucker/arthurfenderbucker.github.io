@@ -10,7 +10,7 @@ contribution: "- mechanical and electronic design"
 period: "DEC 2019"
 img: "/images/portfolio/cigarettes/cigarettes2.png"
 alt: ""
-permalink: /porfolio/Projects_and_Prototypes_Latin_American_Competition_(CLAPP)
+permalink: /porfolio/Smuggled_cigarettes_destroyer_machine
 collection: portfolio
 ---
 
