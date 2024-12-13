@@ -10,7 +10,8 @@ redirect_from:
 
 I am a passionate roboticist and AI researcher. 
 
-Currently, I am pursuing a PhD in Robotics at [Carnegie Mellon University](https://www.cmu.edu/) at the roBot Intelligence Group (BIG), focusing my research on the field of Robotic Learning facilitated by multimodal human-robot interaction.
+Currently, I am pursuing a PhD in Robotics at [Carnegie Mellon University](https://www.cmu.edu/) at the roBot Intelligence Group (BIG). I focus my research on the field of Robotic Learning facilitated by multimodal human-robot interaction and self-supervised learning.
+
 
 My previous projects and research encompass the fields of autonomous systems, AI, Robotics, and electronics.
 **I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
@@ -20,7 +21,7 @@ I have led the Projects Division of the university's Artificial Intelligence gro
 
 During my master studies at [TUM](https://www.tum.de/en/), I have led a research partnership between [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/) and [Microsoft Research]({{https://www.microsoft.com/en-us/ai/autonomous-systems}}). The project focused on the field of Natural-language-facilitated Human-Robot-Interaction, and achieved 2 publications at [IROS 2022]({{url}}/publication/NL_trajectory_reshaper) and [ICRA 2023]({{url}}/publication/LATTE_LAnguage_Trajectory_TransformEr). Both as first author.
 
-Since 2020, I am a fellow at the [Fundação Estudar](https://brazilfoundation.org/en/know-more/how-we-support/fundo-fundacao-estudar/) Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship.
+Since 2020, I am a fellow at the [Fundação Estudar](https://brazilfoundation.org/en/know-more/how-we-support/fundo-fundacao-estudar/) Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship. In 2024 became a recipient of the TCS Presidential Fellowship.
 
 ## Recent publications:
 
