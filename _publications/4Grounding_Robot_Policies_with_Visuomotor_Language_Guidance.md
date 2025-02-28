@@ -1,9 +1,7 @@
 ---
-title: "GRAPPA: Generalizing and Adapting Robot Policies
-via Online Agentic Guidance"
+title: "GRAPPA: Generalizing and Adapting Robot Policies via Online Agentic Guidance"
 collection: publications
-permalink: /publications/GRAPPA_Generalizing_and_Adapting_Robot_Policies
-via_Online_Agentic_Guidance
+permalink: /publications/GRAPPA_Generalizing_and_Adapting_Robot_Policies_via_Online_Agentic_Guidance
 excerpt: ''
 # date: 2023
 venue: 'preprint | RSS 2025 (under review)'
