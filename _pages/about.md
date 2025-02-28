@@ -1,49 +1,112 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a passionate roboticist and AI researcher. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Currently, I am pursuing a PhD in Robotics at [Carnegie Mellon University](https://www.cmu.edu/) at the roBot Intelligence Group (BIG). I focus my research on the field of Robotic Learning facilitated by multimodal human-robot interaction and self-supervised learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My previous projects and research encompass the fields of autonomous systems, AI, Robotics, and electronics.
+**I invite you to check my [Portfolio]({{url}}/portfolio) and [Publications]({{url}}/publications)**.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+During my bachelor's in mechatronics engineering at [University of São Paulo (USP)](https://www5.usp.br/) 
+I have led the Projects Division of the university's Artificial Intelligence group (Grupo Turing), led the technical development of an autonomous drone for international competition, researched distributed sensing systems, and conducted several extracurricular projects in the fields of robotics and AI. Still as an undergrad, I published 2 papers at ICRA 2021 on autonomous aerial cinematography (as [1st]({{url}}/publication/Coordinating_Multiple_Aerial_Cameras_for_Robot_Cinematography) and [2nd]({{url}}/publication/Learning_a_semantic_control_space_for_expressive_robot_cinematography) author) 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+During my master studies at [TUM](https://www.tum.de/en/), I have led a research partnership between [Munich Institute of Robotics and Machine Intelligence (MIRMI)](https://www.msrm.tum.de/msrm/msrm/) and [Microsoft Research](https://www.microsoft.com/en-us/ai/autonomous-systems). The project focused on the field of Natural-language-facilitated Human-Robot-Interaction, and achieved 2 publications at [IROS 2022]({{url}}/publication/NL_trajectory_reshaper) and [ICRA 2023]({{url}}/publication/LATTE_LAnguage_Trajectory_TransformEr). Both as first author.
 
-**Markdown generator**
+Since 2020, I am a fellow at the [Fundação Estudar](https://brazilfoundation.org/en/know-more/how-we-support/fundo-fundacao-estudar/) Leaders Program, a Merit scholarship program for students with outstanding trajectory and academic potential (24 selected out of 40,000+ applicants), and a recipient of the AUCANI merit scholarship. In 2024 became a recipient of the TCS Presidential Fellowship.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Recent publications:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+{% for post in site.publications reversed %}
+  {% include archive-double.html %}
+{% endfor %}
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Experience:
+
+**Carnegie Mellon University** – PhD Candidate
+<br/>Aug 2023 – Present
+<br/>roBot Intelligence Group (BIG)
+
+**Microsoft - Applied Sciences Group (ASG)** — Research Intern
+<br/>May 2023 – Aug 2023
+<br/> Research on Autonomous Virtual Agents for windows, contributed to the Windows Agent Arena project, and developed a temporal aware RAG system for Agents
+
+**Microsoft - Autonomous Systems and Robotics Research** — Research Intern
+<br/>May 2023 – Aug 2023
+<br/> Research on foundational models for Robotics & Developed an [autonomy stack for indoor monocular drones](https://www.youtube.com/watch?v=2eU0rLp464s)
+
+**Koya AI Startup** – Machine Learning Researcher
+<br/>Jul 2023 – Aug 2023
+<br/>Led the research on foundational models knowledge distillation
+
+**MIRMI & Microsoft collaboration** – Researcher
+<br/>Nov 2021 – Nov 2022
+<br/>Research on HRI using multimodal inputs for motion policy shaping
+
+**Carnegie Mellon University Internship** – Research Intern
+<br/>May 2020 – Nov 2020
+<br/>Robotics Institute Summer Scholar (RISS)
+
+**Skyrats** – Member
+<br/>Feb 2018 – Apr 2020
+
+**Grupo Turing** – Head of Project Management
+<br/>Feb 2018 – Aug 2018
+<br/>Grupo Turing is the AI Research group at Escola Politécnica da USP. Its objective is to study, apply, and disseminate AI knowledge.
+
+**Cervejaria Ambev** – Summer Intern
+<br/>Jan 2018 – Mar 2018
+
+
+## Education:
+
+**Carnegie Mellon University**
+<br/>PhD - Robotics
+<br/>Aug 2023 – present
+
+**Technical University of Munich**
+<br/>Master of Science - Mechatronics and Robotics
+<br/>Double degree program
+<br/>2020 – 2022
+[Thesis pdf]({{url}}/files/Master_Thesis_TUM-Arthur_Fender_Coelho_Bucker.pdf)
+ 
+**Escola Politécnica da USP**
+<br/>Bachelor's degree Mechatronics Eng.
+<br/>2017 – 2023
+
+ 
+**Colégio Santa Cruz**
+<br/>High School Diploma
+<br/>2006 – 2016
+<br/>Extracurricular self-study studies in Electronics, Computing, Neuroscience, Physics and Chemistry
+
+## Awards:
+
+- Spotlight contribution - IEEE 2022 ICRA workshop on Collaborative Robots and the Work of the Future 
+- AUCANI merit scholarship recipient.
+- Microsoft AI for Earth Grantee
+- Fellow at Fundação Estudar Leaders program (approval rate = 0.05%)
+- Summer Exchange in China on the Seeds for the Future program (Huawei)
+- 1st place at CLAPP (Latin American Design & Prototype Competition)
+- Winning Team at Hackathon Ambev (Hack the World 2017 SP)
+- Best project award and Team leader at PACE POLI USP 2017 Competition (1st out of 200 teams)
+- A representative of the State of São Paulo at the national stages of the Brazilian Robotics Olympics (team leader 2015 & 2016)
+- Silver medal at the national stage of the Theoretical Robotics Olympics (2016)
+- Team gold medal at the “International Olympiad Mathématiques sans frontières” (2016).
+
+### LANGUAGES
+- Portuguese - Native
+- English - Fluent
+- German - Intermediate
+- Spanish - Intermediate
+- French - Basic
+- Chinese - Basic
