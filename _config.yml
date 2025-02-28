@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "deafult"
+site_theme               : "default"
 
 title                    : "Arthur Fender Coelho Bucker"
 title_separator          : "-"

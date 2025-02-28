@@ -26,7 +26,7 @@ Since 2020, I am a fellow at the [Fundação Estudar](https://brazilfoundation.o
 ## Recent publications:
 
 {% for post in site.publications reversed %}
-  {% include archive-double.html %}
+  {% include archive-double.html type="list" extra_classes="full-width" %}
 {% endfor %}
 
 

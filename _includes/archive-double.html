@@ -12,18 +12,18 @@
 {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: " list" }}__item">
+<div class="{{ include.type | default: " list" }}__item {{ include.extra_classes | default: "" }}">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
-    <div class="archive__item-teaser">
+    <div class="archive__item-teaser" >
       <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: " /images/" | prepend:
         base_path }}" {% endif %} alt="">
     </div>
     {% endif %}
 
     <table class="tab" width="100%" align="center" cellspacing="0" cellpadding="0">
-      <tr>
-        <td style="text-align: ri</tr>ght; width: {{post.width | default: '25%'}}">
+      <tr style="background-color: var(--global-thead-color);">
+        <td style="text-align: right; width: {{post.width | default: '25%'}};  border-radius: 10px 0px 0px 10px;">
           {%if post.period %}
           <font color="var(--global-text-color)">
             <b style="color: var(--global-text-color);">{{post.period}}</b>
@@ -32,11 +32,11 @@
           {% endif %}
           <p align="justify">
             <a class="simple_title" href="{{ base_path }}{{ post.url }}" rel="permalink">
-              <img src="{{post.img}}" style="width:100%;" alt="{{post.alt  | default: ''}}">
+              <img src="{{post.img}}" style="width:100%; border-radius: 5px;" alt="{{post.alt  | default: ''}}">
             </a>
           </p>
         </td>
-        <td style="padding-left:2%;  ">
+        <td style="padding-left:2%;  border-radius: 0px 10px 10px 0px; padding-right: 2%; ">
           <font color="var(--global-text-color)">
             <b>
               {% if post.link %}
@@ -81,6 +81,12 @@
     </table>
 
     <style>
+
+      .full-width {
+        width: 100%;
+        padding-right: 0%;
+        padding-left: 0%;
+      }
       .tab {
         border-collapse: collapse;
         border: none;
