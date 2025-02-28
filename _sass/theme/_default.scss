@@ -27,7 +27,8 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
-:root {
+// :root {
+:root:not(.dark-mode) {
     --global-base-color                 : #{$gray};
     --global-bg-color                   : #fff;
     --global-border-color               : #{$lighter-gray};

@@ -13,6 +13,9 @@
 
     "themes",
     "theme/{{ site.site_theme | default: 'default' }}",
+    "theme/dark", // Add this line to import the dark theme
+    "theme/default", // Add this line to import the dark theme
+
 
     "include/mixins",
     "vendor/susy/susy",

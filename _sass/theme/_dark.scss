@@ -34,7 +34,8 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
-:root {
+// :root {
+.dark-mode {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-border-color               : #{$background-light};
