@@ -11,7 +11,7 @@ venue: 'preprint | RSS 2025 (under review)'
 authors: '<b>Arthur Bucker</b>, Pablo Ortega-Kral, Jonathan Francis, Jean Oh'
 img: "/images/publications/grappa.png"
 width: '17%'
-pdf: 'https://arxiv.org/pdf/2409.08264'
+pdf: '/files/GRAPPA.pdf'
 # video: '' 
 
 ---
