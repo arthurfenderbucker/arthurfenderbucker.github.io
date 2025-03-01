@@ -31,7 +31,6 @@
 <script>
   const themeIcon = document.getElementById('theme-icon');
 
-  // Function to apply the dark mode based on localStorage
   function applyDarkMode() {
     if (localStorage.getItem('dark-mode') === 'true') {
       document.documentElement.classList.add('dark-mode');
@@ -42,7 +41,6 @@
     }
   }
 
-  // Apply dark mode on page load
   applyDarkMode();
 
   themeIcon.addEventListener('click', (event) => {
