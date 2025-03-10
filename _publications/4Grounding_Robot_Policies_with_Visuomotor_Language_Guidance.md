@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/GRAPPA_Generalizing_and_Adapting_Robot_Policies_via_Online_Agentic_Guidance
 excerpt: ''
 # date: 2023
-venue: 'preprint | RSS 2025 (under review)'
+venue: 'preprint | 2025 (under review)'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: '<b>Arthur Bucker</b>, Pablo Ortega-Kral, Jonathan Francis, Jean Oh'
 img: "/images/publications/grappa.png"
