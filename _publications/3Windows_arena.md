@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/Windows_Agent_Arena
 excerpt: ''
 # date: 2023
-venue: 'Neurips 2024 Workshop on Safe & Trustworthy Agents (SATA) | Neurips 2024 Workshop on Open-World Agents | ICLR 2025 (under review)'
+venue: 'Neurips 2024 Workshop on Safe & Trustworthy Agents (SATA) | Neurips 2024 Workshop on Open-World Agents | 2025 (under review)'
 # paperurl: 'https://arxiv.org/pdf/2011.05437.pdf'
 authors: 'Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Yadong Lu, Justin Wagle, Kazuhito Koishida, <b>Arthur Bucker</b>, Lawrence Jang, Zack Hui'
 img: "/images/publications/windows_arena.png"
