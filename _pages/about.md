@@ -37,11 +37,11 @@ Since 2020, I am a fellow at the [Fundação Estudar](https://brazilfoundation.o
 <br/>roBot Intelligence Group (BIG)
 
 **Microsoft - Applied Sciences Group (ASG)** — Research Intern
-<br/>May 2023 – Aug 2023
+<br/>May 2024 – Aug 2024
 <br/> Research on Autonomous Virtual Agents for windows, contributed to the Windows Agent Arena project, and developed a temporal aware RAG system for Agents
 
 **Microsoft - Autonomous Systems and Robotics Research** — Research Intern
-<br/>May 2023 – Aug 2023
+<br/>Jan 2023 – Apr 2023
 <br/> Research on foundational models for Robotics & Developed an [autonomy stack for indoor monocular drones](https://www.youtube.com/watch?v=2eU0rLp464s)
 
 **Koya AI Startup** – Machine Learning Researcher
